@@ -1,0 +1,62 @@
+<!-- Name : Sreelakshmi Odatt Venu
+     File name :contact.html
+     Date of creation:26/09/2023
+     Description: a html page to get the contact details.
+    Course section:CST8285_331-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Sreelakshmi Odatt Venu">
+    <meta name="description" content="contact page ">
+    <meta name="keywords" content="contact">
+    <title>Sreelakshmi Odatt Venu-Portfolio</title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <ul id="links">
+                    <li><a href="index.html"> Home </a> </li>
+                    <li><a href="resume.html"> Resume</a></li>
+                    <li><a href="projects.html"> Projects</a></li>
+                    <li><a href="contact.html" class="activelink"> Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="contact">
+            <h1>Contact Me </h1>
+            <div class="form-container">
+                <div class="section">
+                    <form action="submit_form.php" method="post">
+                        <div class="formsgroup">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="formsgroup">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="formsgroup">
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" rows="4" required></textarea>
+                        </div>
+                        <button type="submit">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p class="footer">&copy;2023 Sreelakshmi Odatt Venu </p>
+    </footer>
+</body>
+
+</html>
