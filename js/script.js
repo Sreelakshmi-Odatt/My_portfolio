@@ -1,10 +1,9 @@
 
 /*
- Name : Sreelakshmi Odatt Venu
+ Author : Sreelakshmi Odatt Venu
      File name :script.js
      Date of creation:26/09/2023
-     Description: This is the javascript file .
-    Course section:CST8285_33
+
 */
 document.addEventListener("DOMContentLoaded", function () {
 
