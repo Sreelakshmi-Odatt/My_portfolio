@@ -4,7 +4,7 @@
      File name :stylesheet.css
      Date of creation:26/09/2023
      Description: this is the css stylesheet .
-    Course section:CST8285_331 */
+   */
 * {
   margin: 2px;
   padding: 0;
@@ -396,7 +396,7 @@ button:hover {
   background: #78c5cd;
 }
 
-/* Media queries for responsiveness */
+/* Media queries for responsiveness for the webpages */
 @media (max-width: 768px) {
   body {
     font-size: 16px;

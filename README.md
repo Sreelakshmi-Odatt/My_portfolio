@@ -4,11 +4,11 @@ Welcome to my portfolio website! This project is a simple showcase of portfolio 
 
 ## Table of Contents
 
-- [Pages](#pages)
-  - [Home Page](#home-page)
-  - [Resume Page](#resume-page)
-  - [Projects Page](#projects-page)
-  - [Contact Page](#contact-page)
+- [Pages]
+  - [Home Page]
+  - [Resume Page]
+  - [Projects Page]
+  - [Contact Page]
 ## Pages
 
 ### Home Page

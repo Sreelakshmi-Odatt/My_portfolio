@@ -3,7 +3,7 @@
  Author : Sreelakshmi Odatt Venu
      File name :script.js
      Date of creation:26/09/2023
-
+Description : The javascript  file for the portfolio website .
 */
 document.addEventListener("DOMContentLoaded", function () {
 
